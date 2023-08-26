@@ -1,4 +1,4 @@
-# Support-Vector-Machine
+# Support-Vector-Machanism
 **Project Title:** Prediction of iris.csv dataset for decision tree algorithm using supervised learning machine algorithm
 **Problem Statement:**A Amerian based botnical garden grow iris flower in their labs but using bio technlogy in a single tree different types of vsriety flower is grow as as a data science engineer find out how much accuracy is there all categories contains same species.
 Task1: Preprocess the data in skit.learn library
